@@ -1,3 +1,5 @@
+# Please use Plant Village Dataset
+## Please run on Colab Pro 
 ### Plant-disease-detection-with-CNN
 ### This is with regards to the plant vision problem statement 
 ### Numpy : a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays. 
